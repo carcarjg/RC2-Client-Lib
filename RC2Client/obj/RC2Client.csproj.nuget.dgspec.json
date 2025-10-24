@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\dvmgsmr-controller\\RC2Client\\RC2Client.csproj": {}
+    "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj": {}
   },
   "projects": {
-    "B:\\dvmgsmr-controller\\RC2Client\\RC2Client.csproj": {
+    "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\dvmgsmr-controller\\RC2Client\\RC2Client.csproj",
+        "projectUniqueName": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
         "projectName": "RC2Client",
-        "projectPath": "B:\\dvmgsmr-controller\\RC2Client\\RC2Client.csproj",
+        "projectPath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "B:\\dvmgsmr-controller\\RC2Client\\obj\\",
+        "outputPath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

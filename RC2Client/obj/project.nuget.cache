@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dqyKM0TlWsc=",
+  "dgSpecHash": "KWqsR4oKoWw=",
   "success": true,
-  "projectFilePath": "B:\\dvmgsmr-controller\\RC2Client\\RC2Client.csproj",
+  "projectFilePath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\audioswitcher.audioapi\\3.0.0\\audioswitcher.audioapi.3.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\audioswitcher.audioapi.coreaudio\\3.0.3\\audioswitcher.audioapi.coreaudio.3.0.3.nupkg.sha512",
