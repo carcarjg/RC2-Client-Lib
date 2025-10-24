@@ -1,0 +1,13 @@
+B:\dvmgsmr-controller\RC2Client\bin\Debug\net8.0-windows10.0.17763.0\RC2Client.deps.json
+B:\dvmgsmr-controller\RC2Client\bin\Debug\net8.0-windows10.0.17763.0\RC2Client.dll
+B:\dvmgsmr-controller\RC2Client\bin\Debug\net8.0-windows10.0.17763.0\RC2Client.pdb
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.csproj.AssemblyReference.cache
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.GeneratedMSBuildEditorConfig.editorconfig
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.AssemblyInfoInputs.cache
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.AssemblyInfo.cs
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.csproj.CoreCompileInputs.cache
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.sourcelink.json
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.dll
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\refint\RC2Client.dll
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\RC2Client.pdb
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0-windows10.0.17763.0\ref\RC2Client.dll

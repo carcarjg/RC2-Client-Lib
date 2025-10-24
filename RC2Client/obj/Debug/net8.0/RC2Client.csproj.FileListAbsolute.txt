@@ -1,0 +1,6 @@
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0\RC2Client.GeneratedMSBuildEditorConfig.editorconfig
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0\RC2Client.AssemblyInfoInputs.cache
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0\RC2Client.AssemblyInfo.cs
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0\RC2Client.csproj.CoreCompileInputs.cache
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0\RC2Client.sourcelink.json
+B:\dvmgsmr-controller\RC2Client\obj\Debug\net8.0\RC2Client.csproj.AssemblyReference.cache
