@@ -1,0 +1,3 @@
+C# Lib for connecting to https://github.com/W3AXL/RadioConsole2/tree/main Deamons... 
+
+I'll update this file later with usage
