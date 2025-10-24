@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj": {}
-  },
-  "projects": {
-    "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
-        "projectName": "RC2Client",
-        "projectPath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\obj\\",
-=======
     "B:\\RC2-Client-Lib\\RC2Client\\RC2Client.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "B:\\RC2-Client-Lib\\RC2Client\\RC2Client.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
         "outputPath": "B:\\RC2-Client-Lib\\RC2Client\\obj\\",
->>>>>>> 04569c14682ed1af2fc58d9b223a33ee3bb22647
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +50,6 @@
         "net8.0-windows10.0.17763": {
           "targetAlias": "net8.0-windows10.0.17763.0",
           "dependencies": {
-            "AudioSwitcher.AudioApi.CoreAudio": {
-              "target": "Package",
-              "version": "[3.0.3, )"
-            },
-            "Concentus": {
-              "target": "Package",
-              "version": "[2.2.2, )"
-            },
             "NAudio": {
               "target": "Package",
               "version": "[2.2.1, )"

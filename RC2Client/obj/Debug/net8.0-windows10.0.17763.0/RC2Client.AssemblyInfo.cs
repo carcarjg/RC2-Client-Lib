@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RC2Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1143efb099da14ef0e335b9402fba7bca6e3bcad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9f2396193437ba53e424da812f859c052c3a50")]
 [assembly: System.Reflection.AssemblyProductAttribute("RC2Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RC2Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

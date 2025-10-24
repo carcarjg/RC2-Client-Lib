@@ -1,17 +1,9 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "KWqsR4oKoWw=",
-  "success": true,
-  "projectFilePath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
-=======
-  "dgSpecHash": "Vkr9nk0dc+c=",
+  "dgSpecHash": "gFTnAnyOgK8=",
   "success": true,
   "projectFilePath": "B:\\RC2-Client-Lib\\RC2Client\\RC2Client.csproj",
->>>>>>> 04569c14682ed1af2fc58d9b223a33ee3bb22647
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\audioswitcher.audioapi\\3.0.0\\audioswitcher.audioapi.3.0.0.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\audioswitcher.audioapi.coreaudio\\3.0.3\\audioswitcher.audioapi.coreaudio.3.0.3.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\concentus\\2.2.2\\concentus.2.2.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\dnsclient\\1.8.0\\dnsclient.1.8.0.nupkg.sha512",
@@ -97,26 +89,5 @@
     "C:\\Users\\admin\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.44\\microsoft.windows.sdk.net.ref.10.0.17763.44.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'AudioSwitcher.AudioApi 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.17763'. This package may not be fully compatible with your project.",
-      "libraryId": "AudioSwitcher.AudioApi",
-      "targetGraphs": [
-        "net8.0-windows10.0.17763"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'AudioSwitcher.AudioApi.CoreAudio 3.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.17763'. This package may not be fully compatible with your project.",
-      "libraryId": "AudioSwitcher.AudioApi.CoreAudio",
-      "targetGraphs": [
-        "net8.0-windows10.0.17763"
-      ]
-    }
-  ]
+  "logs": []
 }

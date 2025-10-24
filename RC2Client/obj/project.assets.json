@@ -2,27 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0-windows10.0.17763": {
-      "AudioSwitcher.AudioApi/3.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net40/AudioSwitcher.AudioApi.dll": {}
-        },
-        "runtime": {
-          "lib/net40/AudioSwitcher.AudioApi.dll": {}
-        }
-      },
-      "AudioSwitcher.AudioApi.CoreAudio/3.0.3": {
-        "type": "package",
-        "dependencies": {
-          "AudioSwitcher.AudioApi": "3.0.0"
-        },
-        "compile": {
-          "lib/net452/AudioSwitcher.AudioApi.CoreAudio.dll": {}
-        },
-        "runtime": {
-          "lib/net452/AudioSwitcher.AudioApi.CoreAudio.dll": {}
-        }
-      },
       "BouncyCastle.Cryptography/2.5.1": {
         "type": "package",
         "compile": {
@@ -1432,33 +1411,6 @@
     }
   },
   "libraries": {
-    "AudioSwitcher.AudioApi/3.0.0": {
-      "sha512": "AiYO8fCawsu/v6rZgDWta55GYzh9vs/FocW9xKhEGF3xsUJIgPaVsWeeBwoexMttueW6E8RS0Vp0o8w8dodjyQ==",
-      "type": "package",
-      "path": "audioswitcher.audioapi/3.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "audioswitcher.audioapi.3.0.0.nupkg.sha512",
-        "audioswitcher.audioapi.nuspec",
-        "lib/net40/AudioSwitcher.AudioApi.dll"
-      ]
-    },
-    "AudioSwitcher.AudioApi.CoreAudio/3.0.3": {
-      "sha512": "O0XrFLuND0Ti/UmW24PvX36Tfhify6jOBpuIKw0wmWemzKQ6fS1uH36a+bNRny9LdqPGIQnFfDyieLo1otb/Lw==",
-      "type": "package",
-      "path": "audioswitcher.audioapi.coreaudio/3.0.3",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "audioswitcher.audioapi.coreaudio.3.0.3.nupkg.sha512",
-        "audioswitcher.audioapi.coreaudio.nuspec",
-        "lib/net40/AudioSwitcher.AudioApi.CoreAudio.dll",
-        "lib/net452/AudioSwitcher.AudioApi.CoreAudio.dll",
-        "lib/net472/AudioSwitcher.AudioApi.CoreAudio.dll",
-        "lib/net48/AudioSwitcher.AudioApi.CoreAudio.dll"
-      ]
-    },
     "BouncyCastle.Cryptography/2.5.1": {
       "sha512": "zy8TMeTP+1FH2NrLaNZtdRbBdq7u5MI+NFZQOBSM69u5RFkciinwzV2eveY6Kjf5MzgsYvvl6kTStsj3JrXqkg==",
       "type": "package",
@@ -4626,8 +4578,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0-windows10.0.17763": [
-      "AudioSwitcher.AudioApi.CoreAudio >= 3.0.3",
-      "Concentus >= 2.2.2",
       "NAudio >= 2.2.1",
       "Newtonsoft.Json >= 13.0.4",
       "SIPSorcery >= 8.0.23",
@@ -4642,19 +4592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
-      "projectName": "RC2Client",
-      "projectPath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\RC2Client.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "B:\\dvmgsmr-controller\\RC2-Client\\RC2Client\\obj\\",
-=======
       "projectUniqueName": "B:\\RC2-Client-Lib\\RC2Client\\RC2Client.csproj",
       "projectName": "RC2Client",
       "projectPath": "B:\\RC2-Client-Lib\\RC2Client\\RC2Client.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
       "outputPath": "B:\\RC2-Client-Lib\\RC2Client\\obj\\",
->>>>>>> 04569c14682ed1af2fc58d9b223a33ee3bb22647
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4693,14 +4635,6 @@
       "net8.0-windows10.0.17763": {
         "targetAlias": "net8.0-windows10.0.17763.0",
         "dependencies": {
-          "AudioSwitcher.AudioApi.CoreAudio": {
-            "target": "Package",
-            "version": "[3.0.3, )"
-          },
-          "Concentus": {
-            "target": "Package",
-            "version": "[2.2.2, )"
-          },
           "NAudio": {
             "target": "Package",
             "version": "[2.2.1, )"
@@ -4750,27 +4684,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'AudioSwitcher.AudioApi 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.17763'. This package may not be fully compatible with your project.",
-      "libraryId": "AudioSwitcher.AudioApi",
-      "targetGraphs": [
-        "net8.0-windows10.0.17763"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'AudioSwitcher.AudioApi.CoreAudio 3.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows10.0.17763'. This package may not be fully compatible with your project.",
-      "libraryId": "AudioSwitcher.AudioApi.CoreAudio",
-      "targetGraphs": [
-        "net8.0-windows10.0.17763"
-      ]
-    }
-  ]
+  }
 }
